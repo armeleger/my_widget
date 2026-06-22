@@ -11,7 +11,7 @@ When you choose a country, the dialing code updates, and as you type your number
 
 ## How to run
 1. Make sure Flutter is installed (`flutter --version`)
-2. Clone this repo: `git clone <your-repo-url>`
+2. Clone this repo: `git clone https://github.com/armeleger/my_widget.git`
 3. Run: `flutter pub get`
 4. Launch: `flutter run`
 
